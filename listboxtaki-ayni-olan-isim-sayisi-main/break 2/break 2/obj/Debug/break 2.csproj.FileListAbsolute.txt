@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\break 2\break 2\bin\Debug\break 2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\break 2\break 2\bin\Debug\break 2.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\break 2\break 2\bin\Debug\break 2.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\break 2\break 2\obj\Debug\break 2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\break 2\break 2\obj\Debug\break 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\break 2\break 2\obj\Debug\break_2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\break 2\break 2\obj\Debug\break_2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\break 2\break 2\obj\Debug\break 2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\break 2\break 2\obj\Debug\break 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\break 2\break 2\obj\Debug\break 2.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\break 2\break 2\obj\Debug\break 2.pdb
